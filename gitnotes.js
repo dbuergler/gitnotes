@@ -19,3 +19,14 @@
 // use git status to check on file staging 
 
 // to commit your files, use git commit -m "your message here"
+
+
+// to create a branch, use git branch <new_branch_name>
+// OR
+// to create a new branch and switch to it, use git checkout -b <branch_name>
+
+// to switch between branches, use git checkout <branch_name>
+
+// to delete a branch, use git branch -D <branch_name>
+
+// lojokookokol
