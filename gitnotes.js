@@ -30,3 +30,12 @@
 // to delete a branch, use git branch -D <branch_name>
 
 // lojokookokol
+
+// to add remote branch
+// check if any exists using git remote -v
+// if none exists, and you have created a repo on GitHub
+// run git remote add <name_of_remote_stream> <github_repo_url>
+
+// to push to GitHub
+// git push <name_of_remote_stream> <name_of_branch>
+// you must sit on the branch that you are pushing up
